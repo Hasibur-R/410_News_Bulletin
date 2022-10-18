@@ -1,3 +1,4 @@
+includes folder: done
 1. index 
 2.about
 3.category
