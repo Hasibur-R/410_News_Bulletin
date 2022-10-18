@@ -1,7 +1,7 @@
 includes folder: done
-1. index 
-2.about
-3.category
-4.contact
-5.detail
+1. index:  done
+2.about done
+3.category done
+4.contact done
+5.detail done
 6.search
